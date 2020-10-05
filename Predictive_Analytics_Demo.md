@@ -11,3 +11,5 @@ Let's try to train a LogisticRegression classifier in order to predict the survi
 ![Alt text](/screen_shots/Screenshot_16.png?raw=true "Simple Code on IPython Notebooks")
 
 To get an estimation of the model's performance, we compute the cross-validation score
+
+![Alt text](/screen_shots/Screenshot_17.png?raw=true "Simple Code on IPython Notebooks")
